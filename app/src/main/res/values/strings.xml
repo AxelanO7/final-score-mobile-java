@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Penghitung Nilai Akhir Mahasiswa</string>
+    <!--welcome-->
+    <string name="tv_welcome_1">Selamat Datang Di Aplikasi\nKalkulator Berat Badan Ideal</string>
+    <string name="btn_welcome_1">Mulai</string>
+
+    <!--input-->
+    <string name="btn_input_1">Hitung</string>
+    <string name="tv_input_0">Halaman Input</string>
+    <string name="tv_input_1">Nama Mahasiswa</string>
+    <string name="tv_input_2">Nilai Tugas</string>
+    <string name="tv_input_3">Nilai UTS</string>
+    <string name="tv_input_4">Nilai UAS</string>
+
+    <!--output-->
+    <string name="tv_output_0">Halaman Output</string>
+    <string name="tv_output_1">Kriteria Penilaian</string>
+    <string name="tv_output_1_1">Nilai Akhir</string>
+    <string name="tv_output_1_2">Huruf</string>
+    <string name="tv_output_2_1">85 - 100</string>
+    <string name="tv_output_2_2">A</string>
+    <string name="tv_output_3_1">71 - &lt;85</string>
+    <string name="tv_output_3_2">B</string>
+    <string name="tv_output_4_1">55 - &lt;71</string>
+    <string name="tv_output_4_2">C</string>
+    <string name="tv_output_5_1">40 - &lt;55</string>
+    <string name="tv_output_5_2">D</string>
+    <string name="tv_output_6_1">00 - &lt;40</string>
+    <string name="tv_output_6_2">E</string>
+</resources>
